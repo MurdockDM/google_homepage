@@ -1,0 +1,21 @@
+
+a{
+	text-decoration: none;
+}
+
+#upperpanel{
+	display: flex;
+	justify-content: space-between;
+}
+
+
+#glgo{height:233px;margin-top:89px}
+
+#googlelogo{
+	padding-top:109px
+}
+
+
+#top_right_links{
+	justify-content: flex-end;
+}
